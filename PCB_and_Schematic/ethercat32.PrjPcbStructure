@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=ESP32.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=EtherCAT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=IO_link.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=LAN9252-1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=LAN9252-2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=MOTOR_DRIVER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=PoE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=USB-ESP32.SchDoc|SheetNumber= 

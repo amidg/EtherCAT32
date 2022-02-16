@@ -4,5 +4,5 @@ Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=IO_link.SchDoc|Sh
 Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=LAN9252-1.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=LAN9252-2.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=MOTOR_DRIVER.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=PoE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=Power_Regulation.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=USB-ESP32.SchDoc|SheetNumber= 

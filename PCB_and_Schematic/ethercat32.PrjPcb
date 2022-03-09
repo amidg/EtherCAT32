@@ -25,6 +25,7 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -166,23 +167,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BUPTMZFY
 
 [Document8]
-DocumentPath=MOTOR_DRIVER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ARHTEWRD
-
-[Document9]
 DocumentPath=IO_link.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSFXCTLR
 
-[Document10]
+[Document9]
 DocumentPath=Power_Regulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1136,6 +1120,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

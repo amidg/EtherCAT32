@@ -96,7 +96,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DMCONENR
 
 [Document4]
 DocumentPath=ethercat32_schlib.SchLib
@@ -113,9 +113,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IQOPIRQH
 
 [Document5]
+DocumentPath=DM9051.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MSTZGCJT
+
+[Document6]
 DocumentPath=EtherCAT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIQPFDHG
 
-[Document6]
+[Document7]
 DocumentPath=LAN9252-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVCDJVIV
 
-[Document7]
+[Document8]
 DocumentPath=LAN9252-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUPTMZFY
 
-[Document8]
+[Document9]
 DocumentPath=IO_link.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSFXCTLR
 
-[Document9]
+[Document10]
 DocumentPath=Power_Regulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

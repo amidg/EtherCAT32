@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:38:29 PM On 10/26/2020
+
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [MD029A.PcbDoc]
+   Generated File[MD029A_DRC.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:38:50 PM On 10/26/2020
